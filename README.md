@@ -17,14 +17,16 @@ sides.<br>
  3. Scalability: Ideal for scalable network 
 applications due to its architecture. <br>
 4. Versatility: Suitable for web, real-time 
-chat, and REST API servers.<br>
+chat, and REST API servers.   
+
 
 3. NodeJs Features<br>
  1. Non-blocking I/O: Designed to perform non-blocking operations 
 by default, making it suitable for I/O-heavy operations.<br>
  2. Networking Support: Supports TCP/UDP sockets, which are 
 crucial for building lower-level network applications that 
-browsers can’t handle.<br>
+browsers can’t handle.   
+
 
 4. NodeJs Features<br>
  1. Window Object: The global window object, which is part of web 
@@ -33,4 +35,4 @@ browsers, is absent in Node.js.<br>
 Model (DOM), as it is not intended to interact with a webpage's 
 content.<br>
  3. BOM (Browser Object Model): No direct interaction with things like 
-navigator or screen which are part of BOM in browsers.<br>
+navigator or screen which are part of BOM in browsers.   
